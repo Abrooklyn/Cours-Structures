@@ -1,0 +1,18 @@
+header{
+	padding: 12px;
+	margin: 3px 30px 3px 30px;
+	border: 3px black solid;
+	text-align: center;
+	font-family: impact;
+	color: rgb(45,140,90);
+}
+
+nav{
+	margin: 40px 30px 3px 40px;
+}
+
+section{
+	text-align: center;
+	width: 50%;
+	height: 50%;
+}
