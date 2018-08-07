@@ -8,11 +8,31 @@ header{
 }
 
 nav{
-	margin: 40px 30px 3px 40px;
+	margin: auto;
+	border: 3px black solid;
+	font-family: Verdana;
+	font-size: 12 em;
 }
 
 section{
+	width: 75%;
+	height: 75%;
+	margin: auto;
 	text-align: center;
-	width: 50%;
-	height: 50%;
+}
+
+aside{
+	text-align: center;
+	margin: 20px 0px 20px 0px;
+}
+
+a:hover{
+	font-family: impact;
+	font-weight: bold;
+	color: rgb(45,140,90);
+}
+
+a{
+	color: rgb(25,120,70);
+	font-family: trebuchet MS;
 }
